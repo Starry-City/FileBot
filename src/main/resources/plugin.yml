@@ -1,0 +1,10 @@
+name: FileBot
+version: '${project.version}'
+main: com.poyu39.filebot.FileBot
+api-version: 1.19
+authors: [ poyu39 ]
+description: A Discord bot can up/download file from server
+commands:
+  FileBot:
+    aliases: [fb]
+    description: FileBot command

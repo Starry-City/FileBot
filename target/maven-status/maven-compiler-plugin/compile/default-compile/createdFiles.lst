@@ -1,0 +1,6 @@
+com\poyu39\filebot\listeners\DiscordCommandListener.class
+com\poyu39\filebot\listeners\DiscordButtonListener.class
+com\poyu39\filebot\FileBot.class
+com\poyu39\filebot\listeners\DiscordMessageListener.class
+com\poyu39\filebot\commands\BotCommand.class
+com\poyu39\filebot\file\FileControl.class

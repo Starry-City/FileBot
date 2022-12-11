@@ -1,0 +1,13 @@
+# FileBot
+version: v1.0-alpha
+BotToken: ""
+ChannelId: ""
+Activity: "FileBot"
+
+DefaultUpload:
+  Plugin: ""
+  Folder: ""
+
+HookPluginList:
+  WorldEdit:
+    - "schematics"
