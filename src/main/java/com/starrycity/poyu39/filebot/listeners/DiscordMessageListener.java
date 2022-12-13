@@ -1,6 +1,6 @@
-package com.poyu39.filebot.listeners;
+package com.starrycity.poyu39.filebot.listeners;
 
-import com.poyu39.filebot.FileBot;
+import com.starrycity.poyu39.filebot.FileBot;
 import net.dv8tion.jda.api.entities.Message;
 import net.dv8tion.jda.api.entities.channel.middleman.MessageChannel;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;

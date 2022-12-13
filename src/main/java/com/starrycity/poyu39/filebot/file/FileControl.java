@@ -1,6 +1,6 @@
-package com.poyu39.filebot.file;
+package com.starrycity.poyu39.filebot.file;
 
-import com.poyu39.filebot.listeners.DiscordCommandListener;
+import com.starrycity.poyu39.filebot.listeners.DiscordCommandListener;
 import org.bukkit.plugin.Plugin;
 
 import java.io.File;

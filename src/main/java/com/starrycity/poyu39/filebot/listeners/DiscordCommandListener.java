@@ -1,6 +1,6 @@
-package com.poyu39.filebot.listeners;
+package com.starrycity.poyu39.filebot.listeners;
 
-import com.poyu39.filebot.commands.BotCommand;
+import com.starrycity.poyu39.filebot.commands.BotCommand;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import org.bukkit.plugin.Plugin;

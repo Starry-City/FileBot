@@ -1,9 +1,9 @@
-package com.poyu39.filebot;
+package com.starrycity.poyu39.filebot;
 
-import com.poyu39.filebot.commands.BotCommand;
-import com.poyu39.filebot.listeners.DiscordButtonListener;
-import com.poyu39.filebot.listeners.DiscordCommandListener;
-import com.poyu39.filebot.listeners.DiscordMessageListener;
+import com.starrycity.poyu39.filebot.commands.BotCommand;
+import com.starrycity.poyu39.filebot.listeners.DiscordButtonListener;
+import com.starrycity.poyu39.filebot.listeners.DiscordCommandListener;
+import com.starrycity.poyu39.filebot.listeners.DiscordMessageListener;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.OnlineStatus;

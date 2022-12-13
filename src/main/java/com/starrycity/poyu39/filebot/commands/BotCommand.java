@@ -1,8 +1,8 @@
-package com.poyu39.filebot.commands;
+package com.starrycity.poyu39.filebot.commands;
 
 import com.google.common.collect.Lists;
-import com.poyu39.filebot.file.FileControl;
-import com.poyu39.filebot.listeners.DiscordCommandListener;
+import com.starrycity.poyu39.filebot.file.FileControl;
+import com.starrycity.poyu39.filebot.listeners.DiscordCommandListener;
 import net.dv8tion.jda.api.entities.emoji.Emoji;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
 import net.dv8tion.jda.api.interactions.components.buttons.Button;
